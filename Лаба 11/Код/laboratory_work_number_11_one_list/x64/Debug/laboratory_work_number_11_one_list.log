@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы\Лаба 11\Код\laboratory_work_number_11_one_list\Source.cpp(267,6): warning C4101: data: неиспользованная локальная переменная
+C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы\Лаба 11\Код\laboratory_work_number_11_one_list\Source.cpp(143,4): warning C4101: data: неиспользованная локальная переменная
+C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы\Лаба 11\Код\laboratory_work_number_11_one_list\Source.cpp(141,1): message : во время компиляции функции-члена класс шаблон "void List<int>::add_several_elements(void)"
+C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы\Лаба 11\Код\laboratory_work_number_11_one_list\Source.cpp(308,30): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<int>::add_several_elements(void)"
+C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы\Лаба 11\Код\laboratory_work_number_11_one_list\Source.cpp(266,12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<int>"
+  laboratory_work_number_11_one_list.vcxproj -> C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы\Лаба 11\Код\laboratory_work_number_11_one_list\x64\Debug\laboratory_work_number_11_one_list.exe
