@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Person">
+    <Position X="4.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAgAAQAAAAAAAAAAAAAAEAABEKAAEAAAAAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object">
+    <Position X="2" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="8.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQgAAAAAABAAAAACAAAAAAQBECQAAAAAAAIA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector">
+    <Position X="11.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAAAAAAAIAIAgAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

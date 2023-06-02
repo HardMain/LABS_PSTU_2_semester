@@ -1,0 +1,6 @@
+﻿  Objects.cpp
+  Person.cpp
+  Student.cpp
+C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы классы\Лаба5\Код\Laba_5\Student.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  Laba_5.vcxproj -> C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы классы\Лаба5\Код\Laba_5\x64\Debug\Laba_5.exe

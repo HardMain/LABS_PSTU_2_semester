@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Person">
+    <Position X="5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAgAAQAAAAAAAAAAAAAAEAABEKAAEAAAAAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="8.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQgAAAAAABAAAAACAAAAAAQBECQAAAAAAAIA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
