@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Pair">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAgAAAAAQgEAAAAIAAQAAAAAAAAgARAAAAA=</HashCode>
+      <FileName>Pair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List_5&lt;T&gt;">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAAABAAAAAAEAACAAAAAAAAAADAABAAgAAAgAAA=</HashCode>
+      <FileName>Ex_5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List_3&lt;T&gt;">
+    <Position X="8.75" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="List_3&lt;T&gt;::Node">
+        <TypeIdentifier>
+          <NewMemberFileName>Ex_3.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="List_3&lt;T&gt;::Iterator">
+        <TypeIdentifier>
+          <NewMemberFileName>Ex_3.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAgAACCkAAAAAIEAIEIAAARIAAAAAAAAAAgAAAgAgA=</HashCode>
+      <FileName>Ex_3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
